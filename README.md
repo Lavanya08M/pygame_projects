@@ -40,28 +40,6 @@ Features include:
 
 ---
 
-## 📦 Installation
-
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/yourusername/alien-invasion.git
-```
-
-2. **Navigate into the project directory**
-
-```bash
-cd alien-invasion
-```
-
-3. **Install dependencies**
-
-```bash
-pip install pygame
-```
-
----
-
 ## ▶️ Run the Game
 
 ```bash
